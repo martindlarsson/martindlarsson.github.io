@@ -1,6 +1,6 @@
 ## Välkommen till BoxyForms
 
-Med BoxyForms kommer du enkelt kunna formulär som du kan länka till från din sida eller bädda in med hjälp av lite html-kod. Tjänsten kommer att vara gratis och finansieras med hjälp av annonser och donationer.
+Med BoxyForms kommer du enkelt kunna skapa formulär som du kan länka till från din sida eller bädda in med hjälp av lite html-kod. Tjänsten kommer att vara gratis och finansieras med hjälp av annonser och donationer.
 
 BoxyForms är tänkt att användas som anmälan till sportarrangemang, formulär för medlemsansökan till föreningar eller anmälan till en fest. På sikt kommer du kunna ta betalt direkt i tjänsten.
 
