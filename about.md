@@ -1,3 +1,8 @@
+---
+layout: default
+title: Om BoxyForms
+---
+
 ## Om BoxyForms
 
 BoxyForms har funnits i flera former fram tills nu. Det hela började när jag (Martin Larsson) fick ansvar
