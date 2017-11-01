@@ -3,3 +3,4 @@ title: BoxyForms
 description: Hemsida för BoxyForms
 name: BoxyForms name
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
