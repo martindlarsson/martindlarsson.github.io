@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: BoxyForms
-description: Blog for the BoxyForms service
+description: Hemsida för BoxyForms
+name: BoxyForms name
+markdown: kramdown
